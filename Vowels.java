@@ -1,8 +1,5 @@
 // Name: Tyler Stroud
-// Class: CS 3305/section W01
-// Term: Spring 2025
-// Instructor: Emin Mary Abraham
-// Assignment: 2
+
 public class Vowels {
     /** recursive count method **/
     public static int countVowels(String userInput, int index){
