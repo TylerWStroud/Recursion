@@ -1,8 +1,5 @@
 // Name: Tyler Stroud
-// Class: CS 3305/section W01
-// Term: Spring 2025
-// Instructor: Emin Mary Abraham
-// Assignment: 2
+
 public class AverageGrades {
     /** recursive method **/
     public static double findAverage(int[] gradesArray, int length){
